@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "SGB-TROLLEY-01",
+    "name": "SGB Side Pack Brush Cutter Trolley",
+    "category": "Accessories",
+    "price": 4000,
+    "original_price": 5000,
+    "key_features": ["Converts side-pack brush cutters into a wheeled unit", "Reduces operator fatigue and back strain", "Sturdy frame construction"],
+    "limitations": ["Compatible with standard side-pack brush cutter models"],
+    "shipping_info": "In stock. Ships within 2-3 business days across Karnataka."
+  },
+  {
+    "product_id": "SGB-MACH-02",
+    "name": "SGB 143R Brush Cutter With Trolley",
+    "category": "Machines",
+    "price": 16000,
+    "original_price": 20000,
+    "key_features": ["High-power 143R engine variant", "Comes bundled with a utility trolley for effortless mobility", "Ideal for dense grass, weeds, and crop clearance"],
+    "limitations": ["Requires regular fuel-oil mixing and air filter maintenance"],
+    "shipping_info": "In stock. Standard delivery 3-4 days in Karnataka."
+  },
+  {
+    "product_id": "SGB-TROLLEY-02",
+    "name": "SGB Back Pack Trolly",
+    "category": "Accessories",
+    "price": 4300,
+    "original_price": 5000,
+    "key_features": ["Designed specifically for backpack-style brush cutters", "Wheeled mobility eliminates heavy shoulder carrying"],
+    "limitations": ["Built for backpack frames"],
+    "shipping_info": "In stock. Ships within 2-3 business days."
+  },
+  {
+    "product_id": "SGB-TOOL-01",
+    "name": "SGB Dumper Wheel Barrow",
+    "category": "Hand Tool",
+    "price": 8500,
+    "original_price": 9000,
+    "key_features": ["Heavy-duty dumping tray mechanism", "Designed for farm produce, manure, and soil transport", "Balanced single/dual wheel chassis support"],
+    "limitations": ["Load capacity restricted to physical handling limits"],
+    "shipping_info": "Standard freight delivery across Karnataka."
+  },
+  {
+    "product_id": "SGB-ACC-01",
+    "name": "Aluminium Tap & Go Head For Brush Cutter",
+    "category": "Accessories",
+    "price": 650,
+    "original_price": 750,
+    "key_features": ["Durable aluminium body construction", "Easy nylon line reloading mechanism", "Fits standard brush cutter shafts"],
+    "limitations": ["Consumable nylon line needs periodic manual replacement"],
+    "shipping_info": "In stock. Express shipping available."
+  },
+  {
+    "product_id": "SGB-ATTACH-01",
+    "name": "SGB Brush Cutter Tiller Attachment",
+    "category": "Attachments",
+    "price": 3100,
+    "original_price": 3500,
+    "key_features": ["Converts a brush cutter into a mini soil cultivator/weeder", "Great for inter-row weeding and soil aeration"],
+    "limitations": ["Requires compatible shaft connection; best for soft-to-medium soil types"],
+    "shipping_info": "In stock. Ships within 2-3 business days."
+  },
+  {
+    "product_id": "SGB-TOOL-02",
+    "name": "SGB Wheel Barrow",
+    "category": "Hand Tool",
+    "price": 7500,
+    "original_price": 8000,
+    "key_features": ["Sturdy tray capacity for daily farm utility tasks", "Ergonomic handles for balanced pushing"],
+    "limitations": ["Manual operation required"],
+    "shipping_info": "Standard delivery across Karnataka."
+  },
+  {
+    "product_id": "SGB-ACC-02",
+    "name": "SGB Blade Protector",
+    "category": "Accessories",
+    "price": 600,
+    "original_price": 800,
+    "key_features": ["Protects metal cutting blades during storage and transport", "Enhances safety and prevents accidental bluntness"],
+    "limitations": ["Must be removed prior to operating the brush cutter"],
+    "shipping_info": "In stock. Ships immediately."
+  }
+]
